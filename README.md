@@ -20,3 +20,7 @@ https://www.kaggle.com/tunguz/us-elections-dataset
 
 7. The Human Microbiome Project
 https://www.kaggle.com/bbhatt001/human-microbiome-project
+
+8. Machine Learning Workflow on Diabetes Data
+https://github.com/LahiruTjay/Machine-Learning-With-Python/blob/master/Machine%20Learning%20Workflow%20on%20Diabetes%20Data.ipynb
+
